@@ -1,6 +1,6 @@
 # Force Based drawing of Graphs
 
-This is code I wrote as a final project for the course [Seminar Graph Drawing](https://web.archive.org/web/20091028084656/http://www.cs.uu.nl/docs/vakken/gd/) I followed at Utrecht University in 2009 and which was organized and taught by Hans Bodlaender.
+This is code I wrote as a final project for the course I followed at Utrecht University in 2007/2008.
 
 It would use an implementation of a force-based drawing algorithm,  which is live animated in a kind of crude Swing GUI application. When generating the graph, you can choose whether to use 3D node coordinates or 2D nodes coordinates. In case of 3D, if you stop the animation you can drag with the right mouse button to rotate the graph.
 
